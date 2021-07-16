@@ -1,10 +1,13 @@
 #topbar {height: 50px;
+    width: 100vw;
     display: flex;
     align-items: center;
 }
 #mainContent {
 background-color: rgb(242, 245, 248);
-height: 100vh
+height: 100vh;
+display: flex;
+flex-direction: row;
 }
 #menu {color: rgb(97, 93, 93);
     position:relative;
@@ -94,4 +97,12 @@ border-left: 0px;
 height: 32px;
 width: 32px;
 text-align: center;
+}
+#vidside {
+    width: 80vw;
+}
+iframe {
+    position: relative;
+    top: 22px;
+    left: 90px;
 }
