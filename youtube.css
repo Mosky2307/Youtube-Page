@@ -1,0 +1,97 @@
+#topbar {height: 50px;
+    display: flex;
+    align-items: center;
+}
+#mainContent {
+background-color: rgb(242, 245, 248);
+height: 100vh
+}
+#menu {color: rgb(97, 93, 93);
+    position:relative;
+    bottom: 5px;
+left: 16px;
+}
+#ytlogo {
+    height: 225px;
+    position:relative;
+bottom: 5px;
+right: 57px;
+}
+#ytlogoletters {
+    font-family: oswald;
+    font-size: 20px;
+    position:relative;
+    bottom: 5px;
+    right: 152px;
+    font-weight:500;
+}
+#search {
+    width: 566px;
+    height: 31px;
+    position:relative;
+    bottom: 5px;
+    left: 290px;
+    border:1px solid rgb(211, 205, 205);
+}
+#searchbutton {
+height: 31px;
+width:65px;
+position:relative;
+bottom: 5px;
+left: 290px;
+border:1px solid rgb(211, 205, 205);
+border-left: 0px;
+
+}
+#searchicon {
+    color:rgb(148, 129, 129);
+    font-size: 20px;
+}
+#micicon {
+    position:relative;
+    left: 303px;
+    bottom: 5px;
+    color: rgb(88, 83, 83);
+}
+
+#righticons {
+    position:relative;
+    left: 718px;
+   top: 8px;
+    color: rgb(88, 83, 83);
+    font-size: 18px;
+}
+#plus {
+    position: relative;
+    color: #FFF;
+    bottom: 29px;
+    left: 5px;
+    
+}
+#videocam {
+   position: relative;
+   top: 3px;
+}
+#apps {
+    position: relative;
+    left: 18px;
+    top: 3px;
+}
+#bell {
+    position: relative;
+    left: 37px;
+    top: 3px;
+}
+#googleaccount {
+    color: #FFF;
+    background-color: rgb(99, 99, 165);
+    border-radius: 50%;
+    position: relative;
+    left: 63px;
+    bottom: 4px;
+    font-size: 17px;
+    border: 1px;
+height: 32px;
+width: 32px;
+text-align: center;
+}
